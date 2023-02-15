@@ -4,8 +4,11 @@ untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah disp
 
 # BAHASA
 -C++
+
 -Java
+
 -Python
+
 -PHP
 
 # DESAIN PROGRAM
