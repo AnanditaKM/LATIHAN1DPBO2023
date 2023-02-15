@@ -20,5 +20,5 @@ untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah disp
 
    <img width="200" alt="image" src="https://user-images.githubusercontent.com/100897554/219076049-8836eb4a-bb6f-4992-9f35-18bdb7cb8f03.png">
    
- 4.Pilihan query terdiri dari INSERT(menambahkan data),update(mengupadate data),delete(menghapus data),show(menampilkan data yang ada),close(keluar dari program)
+4.Ketika user memasukan INSERT maka program akan meminta user untuk memasukan data (nama,nim,prodi,fakultas) untuk ditambahkan kedalam list
 
