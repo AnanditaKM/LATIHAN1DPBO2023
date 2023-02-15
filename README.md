@@ -12,15 +12,15 @@ berisikan program dengan bebrbagai bahasa pemograman yang dapat menampilkan info
 # BAHASA
 Terdapat 4 macam bahasa pemrograman  yaitu 
 
--C++
+- C++
 
--Java
+- Java
 
--Python
+- Python
 
--PHP
+- PHP
 
-# DESAIN PROGRAM C++,Java,Python
+# DESAIN PROGRAM C++, Java, Python
 
 1.Membuat class/object Mahasiswa yang didalamnya terdapat 4  atribut private (Nama, Nim, Program studi(Prodi), dan Fakultas)
 
