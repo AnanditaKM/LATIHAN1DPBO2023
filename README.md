@@ -15,7 +15,7 @@ Terdapat 4 macam bahasa pemrograman  yaitu
 
 -PHP
 
-# DESAIN PROGRAM 
+# DESAIN PROGRAM C++,Java,Python
 
 1.Membuat class/object Mahasiswa yang didalamnya terdapat 4  atribut private (Nama, Nim, Program studi(Prodi), dan Fakultas)
 
@@ -37,5 +37,21 @@ Terdapat 4 macam bahasa pemrograman  yaitu
 
 <img width="193" alt="UPDATE" src="https://user-images.githubusercontent.com/100897554/219084117-02276008-0a34-4aa5-8f4b-612a85a48c62.png">
 
+7.Ketika user memasukan SHOw maka program akan Menampilkan data yang ada.
 
+<img width="220" alt="SHOW" src="https://user-images.githubusercontent.com/100897554/219084440-051f7f64-fc1d-4d6e-9185-d128f42bc059.png">
+
+# DESAIN PROGRAM PHP
+1.Dalam penginputan data dilakukan secara Hardcore 
+
+<img width="201" alt="image" src="https://user-images.githubusercontent.com/100897554/219085637-04878598-357a-41d2-8bac-697385ebfe88.png">
+
+2.Dalam program PHP terdapat data berupa image
+3.Dalam mengupdate data dilakukan secara Hardcore 
+
+<img width="212" alt="image" src="https://user-images.githubusercontent.com/100897554/219086891-73e99a35-8f50-4377-95d3-cacb220521dd.png">
+
+4.Dalam menghapus data dilakukan secara Hardcore 
+
+<img width="184" alt="image" src="https://user-images.githubusercontent.com/100897554/219087047-9eb121fd-8d8a-42aa-81ca-9eddb2261a72.png">
 
