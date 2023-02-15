@@ -17,4 +17,4 @@ untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah disp
 2.Membuat class/object query yang didalamnya terdapat 6  atribut private (Nama, Nim, Program studi(Prodi), Fakultas, list mahasiswa,objek mahasiswa)
 
 3.Didalam main terdapat perulangan dimana berisikan pilihan query yang dapat dipilih user
-   <img width="190" alt="image" src="https://user-images.githubusercontent.com/100897554/219076049-8836eb4a-bb6f-4992-9f35-18bdb7cb8f03.png">
+   <img width="80" alt="image" src="https://user-images.githubusercontent.com/100897554/219076049-8836eb4a-bb6f-4992-9f35-18bdb7cb8f03.png">
