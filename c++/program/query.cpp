@@ -12,7 +12,7 @@ private: // private atribut
     Mahasiswa data;
 
 public:
-    Query() /* contructor */
+    Query() /* constructor */
     {
     }
     void addData() // METHOD menambahkan data

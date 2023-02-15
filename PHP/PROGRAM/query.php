@@ -3,7 +3,7 @@
 include "mahasiswa.php";
 
 class Query{
-    
+   // private atribut 
 private $nama = "";
 private $NIM = "";
 private $prodi = "";
@@ -11,7 +11,7 @@ private $fakultas= "";
 private $gambar = "";
 private $db = array();
 
-function __construct($nama="",$NIM="",$prodi="",$fakultas="", $gambar="") {
+function __construct($nama="",$NIM="",$prodi="",$fakultas="", $gambar="") {/* constructor */
 
 $this->nama = $nama;
 $this->NIM = $NIM;
@@ -20,7 +20,7 @@ $this->fakultas = $fakultas;
 $this->gambar = $gambar;
 }
 
-public function addData()
+public function addData()// METHOD menambahkan data
 {
     $data = new Mahasiswa();
 
@@ -33,7 +33,7 @@ public function addData()
     $this->db[count($this->db)] = $data;
 }
 
-public function deleteData($hapus)
+public function deleteData($hapus)// METHOD menghapus data
 {
     $ketemu = false;
     for ($i = 0; $i < count($this->db); $i++)
@@ -53,7 +53,7 @@ public function deleteData($hapus)
     }
 }
 
-public function updateData($update)
+public function updateData($update)// METHOD mengupdate data
 {
     for ($i = 0; $i < count($this->db); $i++)
     {
@@ -68,20 +68,7 @@ public function updateData($update)
     }
 }
 
-public function show()
-{
-    for ($i = 0; $i < count($this->db); $i++)
-    {
-        echo "<img src = 'img/". $this->db[$i]->getGambar() . "' style = 'width:100px;height:100px'><br>";
-        echo $this->db[$i]->getNama() . "<br>";
-        echo $this->db[$i]->getNIM() . "<br>";
-        echo $this->db[$i]->getProdi() . "<br>";
-        echo $this->db[$i]->getFakultas() . "<br><br>";
-    }
-    echo "<hr>";
-}
-
-public function tampil()
+public function tampil()// METHOD menampilkan data dengan tabel
 {
     echo "<table border='3'>";
     echo "<tr>
@@ -107,7 +94,7 @@ public function tampil()
     }
     echo "</table>";
 }
-
+ # Getter and Setter
 function setnama ($nama="") {
     $this->nama = $nama;
      

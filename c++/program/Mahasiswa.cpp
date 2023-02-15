@@ -3,7 +3,7 @@
 using namespace std;
 class Mahasiswa
 {
-private:
+private: // private atribut
     string nama;
     string NIM;
     string prodi;
