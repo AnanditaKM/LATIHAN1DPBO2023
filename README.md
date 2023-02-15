@@ -1,7 +1,8 @@
-    Saya Anandita K NIM 2101114 mengerjakan soal Latihan 1 dalam mata kuliah
-   Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya 
-   tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
-   
+ Saya Anandita K NIM 2101114 mengerjakan soal Latihan 1 dalam mata kuliah
+ Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya 
+ tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+ 
+ 
 # LATIHAN1DPBO2023
 Repositori ini berisikan Latihan 1  praktikum mata kuliah Desain dan Pemrograman Berorientasi Objek 
 berisikan program dengan bebrbagai bahasa pemograman yang dapat menampilkan informasi daftar mahasiswa 
