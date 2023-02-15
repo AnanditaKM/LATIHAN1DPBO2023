@@ -1,7 +1,11 @@
-# LATIHAN1DPBO2023
-   Saya Anandita K NIM 2101114 mengerjakan soal Latihan 1 dalam mata kuliah
+    Saya Anandita K NIM 2101114 mengerjakan soal Latihan 1 dalam mata kuliah
    Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya 
-   tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin. 
+   tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+   
+# LATIHAN1DPBO2023
+Repositori ini berisikan Latihan 1  praktikum mata kuliah Desain dan Pemrograman Berorientasi Objek 
+berisikan program dengan bebrbagai bahasa pemograman yang dapat menampilkan informasi daftar mahasiswa 
+(sekumpulan objek mahasiswa) dan memiliki fitur menambah, mengubah, dan menghapus data. 
    
 
 # BAHASA
@@ -37,7 +41,7 @@ Terdapat 4 macam bahasa pemrograman  yaitu
 
 <img width="193" alt="UPDATE" src="https://user-images.githubusercontent.com/100897554/219084117-02276008-0a34-4aa5-8f4b-612a85a48c62.png">
 
-7.Ketika user memasukan SHOw maka program akan Menampilkan data yang ada.
+7.Ketika user memasukan SHOW maka program akan Menampilkan data yang ada.
 
 <img width="220" alt="SHOW" src="https://user-images.githubusercontent.com/100897554/219084440-051f7f64-fc1d-4d6e-9185-d128f42bc059.png">
 
